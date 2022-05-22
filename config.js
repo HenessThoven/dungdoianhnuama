@@ -1,8 +1,8 @@
 const CONFIG = {
 	titleWeb: "Anh xin lỗi em ạ :(",
-	introTitle: 'Bảo Ngọc',
-	introDesc:,
-	btnIntro: 'Ấn vô đây đi em :(',
+	introTitle: "Bảo Ngọc",
+	introDesc:"",
+	btnIntro: "Ấn vô đây đi em :(",
 	title: 'Em à, anh vẫn còn yêu em nhiều lắm ạ:(, hứa với anh là đừng vì những lỗi lầm nhỏ nhặt mà chia tay nha. Anh vẫn còn yêu em lắm🥰',
 	desc: 'Đừng giận nữa mà ',
 	btnYes: 'Dạ <3',
